@@ -3,6 +3,7 @@
 
 ### External Dependencies
 - Was built with Java 21 but should be compatible with Java 11 and up
+- The project uses Lombok to reduce boilerplate code. To use Lombok in your IDE, you may need to install the Lombok plugin.
 - Does not have any other external dependencies
 
 ### Running the application
